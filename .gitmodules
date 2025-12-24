@@ -1,0 +1,3 @@
+[submodule "screenkey.nvim"]
+	path = screenkey.nvim
+	url = git@github.com:NStefan002/screenkey.nvim.git
