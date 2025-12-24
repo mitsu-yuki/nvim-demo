@@ -1,0 +1,5 @@
+[env]
+NVIM_APPNAME = "nvim-demo"
+
+[tools]
+neovim = "latest"
